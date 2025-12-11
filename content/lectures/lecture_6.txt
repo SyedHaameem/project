@@ -1,0 +1,9 @@
+Umm… so 08:20:03 today's lecture is Data Science 🤓.
+        Data science mixes statistics, programming, domain knowledge...
+        Steps: data collection → cleaning → exploration → visualization → modeling → deployment.
+        Tools: Python, R, Pandas, NumPy, Matplotlib.
+        ML techniques like regression, clustering, classification.
+        Importance of feature engineering!!
+        Metrics: RMSE, R², precision, recall.
+        Applications: health, finance, marketing.
+        okay that’s it 😂.

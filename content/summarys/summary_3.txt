@@ -1,0 +1,1 @@
+This lecture explains OS responsibilities, scheduling algorithms, memory management, deadlocks, and common operating systems.

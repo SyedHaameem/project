@@ -1,0 +1,1 @@
+This lecture explains computer architecture layers, ISA, RISC vs CISC, and microarchitecture components.

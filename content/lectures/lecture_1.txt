@@ -1,0 +1,10 @@
+So, uhh... welcome 😅 to today's class, 12:08:11. Today we're talking about Machine Learning, okay?
+        ML is, aaah, basically a part of AI that lets computers *learn* from data.
+        We have supervised... unsupervised... and umm reinforcement learning.
+        Supervised uses labeled daaata, unsupervised finds hidden patterns without labels, sooo yeah.
+        RL works on rewards + penalties 🤖.
+        We'll also talk about accuracy, precision, recall, F1–– score, etc.
+        Applications? Spam detection, fraud detection, cars that drive themselves 🚗💨 and so on.
+        Clean data is important... like VERY important.
+        Also preprocessing: removing missing values, scaling, normalization.. blah blah.
+        Future trends: deep learning, Generative AI, LLMs 😎.

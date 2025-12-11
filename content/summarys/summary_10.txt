@@ -1,0 +1,1 @@
+This lecture covers cybersecurity concepts, CIA triad, attack types, best practices, and security mechanisms.

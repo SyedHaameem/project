@@ -1,0 +1,1 @@
+This lecture outlines the data science pipeline, tools, ML techniques, and evaluation metrics.

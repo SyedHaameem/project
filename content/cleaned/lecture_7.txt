@@ -1,0 +1,1 @@
+today s computer architecture lecture. it defines how hardware software interact to run instructions. it has isa, microarchitecture, system architecture. isa instructions, registers, addressing modes. risc arm, risc v vs cisc x86 . microarchitecture alu, control unit, caching, pipeline, branch prediction, superscalar stuff. kinda complicated but important.

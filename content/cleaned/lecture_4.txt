@@ -1,0 +1,1 @@
+today s topic: neural networks . perceptrons, activation functions relu, sigmoid, tanh , feed forward networks. backpropagation updates weights using gradient desc, basically. issues like overfitting, underfitting, dropout, regularization aaahhhh lots of terms . applications: images, speech, nlp, etc. deep models need huge data gpus yeah get ready .

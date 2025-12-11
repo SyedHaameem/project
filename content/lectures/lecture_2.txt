@@ -1,0 +1,9 @@
+Alright sooo 09:14:55 today’s topic is Database Management Systems (DBMS)...
+        aaah okay so DBMS helps in storing + retrieving data efficiently.
+        We have three levels: physical, logical and external–– yeah remember that.
+        Relational databases, primary keys, foreign keys... normalization (1NF, 2NF, 3NF) etc.
+        Also indexing! Transaction management!
+        ACID properties → Atomicity, Consistency, Isolation, Durability (umm very important) 👍.
+        Concurrency control... locks... timestamps... sooo users don’t mess each other up.
+        SQL vs NoSQL differences, you know.
+        Applications: banking 🏦, ecommerce, warehouses, etc.

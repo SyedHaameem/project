@@ -1,0 +1,6 @@
+Aaah okay so IoT, 12:33:19…
+        IoT = devices connected through internet sending/receiving data automatically.
+        Sensors + connectivity + cloud + smart software = real-time decisions.
+        Applications: smart homes, smart cities, healthcare, farming, transport, industries.
+        Examples: thermostats, wearables, smart cameras, driverless cars 🚗🤖, irrigation systems.
+        IoT improves automation & efficiency sooo yeah.

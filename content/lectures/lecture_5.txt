@@ -1,0 +1,8 @@
+Okay, quick lecture 11:55:10 on Cloud Computing ☁️.
+        Cloud = on-demand servers, storage, apps on internet, like AWS, GCP, Azure etc.
+        Service models: IaaS, PaaS, SaaS (remember pls).
+        Deployments: public, private, hybrid, community.
+        Characteristics: scalability, elasticity, pay-as-you-go sooo $$$ saved.
+        Virtualization + containers (Docker, Kubernetes 🐳).
+        Security challenges like data breaches 😬, identity mgmt, compliance issues.
+        Used in streaming apps, e-commerce, enterprise IT.

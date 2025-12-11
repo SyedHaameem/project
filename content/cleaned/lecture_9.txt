@@ -1,0 +1,1 @@
+today at we discussed computer networks. network devices connected to share data resources. types: lan, man, wan, pan. internet largest wan ever . uses tcp ip, http, ftp protocols. components: routers, switches, servers, clients, etc. applications: communication, file sharing, cloud, business, education everything.

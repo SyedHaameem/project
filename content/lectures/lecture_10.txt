@@ -1,0 +1,7 @@
+Umm okay last lecture 15:29:14 on Cybersecurity 🔐.
+        Cybersecurity protects systems from attacks, malware, exploits etc.
+        Concepts: encryption, hashing, firewalls, antivirus, intrusion detection, authentication.
+        Threats: phishing 😭, ransomware, DDoS, password attacks, MITM attacks.
+        CIA triad → Confidentiality, Integrity, Availability.
+        Best practices: strong passwords, MFA, updates, backups, network monitoring.
+        Cybersecurity is super important today sooo be careful online 👀.

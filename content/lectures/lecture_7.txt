@@ -1,0 +1,7 @@
+Sooo okay 16:18:40 today's Computer Architecture lecture.
+        It defines how hardware + software interact to run instructions.
+        It has ISA, microarchitecture, system architecture.
+        ISA → instructions, registers, addressing modes.
+        RISC (ARM, RISC-V) vs CISC (x86).
+        Microarchitecture = ALU, control unit, caching, pipeline, branch prediction, superscalar stuff.
+        Kinda complicated 🤦‍♂️ but important.
